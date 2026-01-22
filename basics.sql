@@ -11,7 +11,6 @@ INSERT INTO employees(id, name, dept, salary) VALUES
 ("2",	"Sam",	"HR",	"40000"),
 ("3",	"John",	"IT",	"60000");
 
-
 -- -------------------- SELECT ---------------------------
 -- Show all employees
 SELECT * FROM employees;
